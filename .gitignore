@@ -1,11 +1,2 @@
-*.exe
-*.dll
-*.o
-*.moc
-*.ui
-crusta/*.pro.user*
-out
-crusta/.qmake.stash
-crusta/Makefile
-crusta/cmake-build-*
-crusta/.idea
+node_modules
+dist
